@@ -1,0 +1,10 @@
+streamlit
+google.generativeai
+python-dotenv
+flask
+psycopg2-binary
+flask_cors
+Pillow
+requests
+pandas
+plotly
